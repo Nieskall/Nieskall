@@ -5,7 +5,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lukasport_/)
 
 ![Nieskall GitHub stats](https://github-readme-stats.vercel.app/api?username=Nieskall&show_icons=true&theme=tokyonight)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nieskall&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que uso no meu dia
@@ -20,6 +19,8 @@
  <img alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
  <img alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div>
+
+[![Snake animation]](https://github.com/Nieskall)
 
 ## Estudo e sou apaixonado por tecnologia desde pequeno, espero mudar minha vida e a vida de outras pessoas com programação, sempre focado e motivado a ir mais longe!!!
 
