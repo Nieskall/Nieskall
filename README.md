@@ -20,8 +20,6 @@
  <img alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div>
 
-![Snake animation](https://github.com/Nieskall/Nieskall/blob/output/github-contribution-grid-snake.svg)
-
 ## Estudo e sou apaixonado por tecnologia desde pequeno, espero mudar minha vida e a vida de outras pessoas com programação, sempre focado e motivado a ir mais longe!!!
 
 ## Contato 👇
