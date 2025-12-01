@@ -35,8 +35,11 @@ Estudante de **Sistemas de Informação (SI)**, apaixonado por tecnologias que c
 
 ### 📈 Estatísticas do GitHub
 
-![Nieskall GitHub stats](https://github-readme-stats.vercel.app/api?username=Nieskall&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nieskall&layout=compact&theme=dracula)
+![Nieskall GitHub stats](https://github-readme-stats.vercel.app/api?username=Nieskall&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nieskall&layout=compact&theme=dracula&locale=pt)
+
+---
 
 ---
 
