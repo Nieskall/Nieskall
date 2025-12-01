@@ -43,6 +43,8 @@ Estudante de **Sistemas de Informação (SI)**, apaixonado por tecnologias que c
 
 ---
 
+---
+
 ### 📧 Contato
 E-mail: [Falavinha.ff@gmail.com](mailto:Falavinha.ff@gmail.com)
 Whatsapp: (11) 98563-9794
