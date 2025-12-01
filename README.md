@@ -1,29 +1,45 @@
-### Olá! Eu sou o Lucas Falavinha Ferreira 🐻
+# Olá, eu sou o Lucas Falavinha Ferreira 👋 ou CowboyHash 🤠
 
+Estudante de **Sistemas de Informação (SI)**, apaixonado por tecnologias que constroem a base do mundo digital, como **Virtualização (VMs)**, **Cloud Computing** e **Infraestrutura de Redes**. Meu foco atual é em **Cybersecurity** (Pentesting e Blue Team), buscando sempre sistemas mais seguros.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-ferreira-34116219b/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lukasport_/)
+---
 
-![Nieskall GitHub stats](https://github-readme-stats.vercel.app/api?username=Nieskall&show_icons=true&theme=tokyonight)
+### 💻 Tecnologias que uso no meu dia
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nieskall&layout=compact&langs_count=8&card_width=500&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-### Tecnologias que uso no meu dia
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607D8B?style=for-the-badge&logo=vmware&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
 
-<div style="display: inline_block"><br/>
-  <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="sql" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="github" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img alt="docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img alt="vs-code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+---
 
-</div>
+### 🚀 Onde me encontrar e o que estou estudando
 
+* **LinkedIn:** [lucas-falavinha-ferreira](https://www.linkedin.com/in/lucas-falavinha-ferreira-7122a8337/)
+* **Hack The Box:** [Perfil HTB](https://app.hackthebox.com/users/2136417) (Foco em Hacking e Pentesting)
+* **TryHackMe:** [CowboyHash](https://tryhackme.com/p/CowboyHash) (Trilhas de Cyber)
+* **HackMD:** [Notas e Documentação](https://hackmd.io/@cowboyHash)
 
-## Estudo e sou apaixonado por tecnologia desde pequeno, espero mudar minha vida e a vida de outras pessoas com programação, sempre focado e motivado a ir mais longe!!!
+> Busco conhecimento constante para transformar dados em soluções seguras e escaláveis. Vamos construir e proteger! 🛡️
 
-## Contato 👇
-## E-mail: Falavinha.ff@gmail.com
-## Whatsapp: (11) 98563-9794
+---
+
+### 📈 Estatísticas do GitHub
+
+![Nieskall GitHub stats](https://github-readme-stats.vercel.app/api?username=Nieskall&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nieskall&layout=compact&theme=dracula)
+
+---
+
+### 📧 Contato
+E-mail: [Falavinha.ff@gmail.com](mailto:Falavinha.ff@gmail.com)
+Whatsapp: (11) 98563-9794
